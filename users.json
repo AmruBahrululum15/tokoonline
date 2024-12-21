@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "username": "admin",
+        "password": "$2y$10$abcdefabcdefabcdefabcdefabcdefabcdefabcdefabcdefabcdef",
+        "email": "admin@example.com"
+    },
+    {
+        "username": "amru alzauzi",
+        "email": "Amrubahrululum15@gmail.com",
+        "password": "$2y$10$rZW38KkgOxiMFiKaPEDNdO.5ocdyRk\/shHnU4Y8571Bi5F7MQCRPG"
+    },
+    {
+        "username": "amru15",
+        "password": "$2y$10$VEcw6eqTbG.RwV2A02B2Me2fAVP1dFwv9ghXTX68HSoEtmDe5wYsi",
+        "name": "amru bahrul ",
+        "email": "Amrubahrululum15@gmail.com"
+    },
+    {
+        "username": "admin2",
+        "email": "admin2@gmail.com",
+        "password": "$2y$10$0JLpp33z2k5Bbe9Kx1oT3uxT6iR5qN\/mXCl1B.rpWmWyg5mkrVW8m"
+    },
+    {
+        "username": "admin 3",
+        "email": "Amrubahrululum15@gmail.com",
+        "password": "$2y$10$2FbrTWqsLk\/Xv\/zjFE89SeDmYXL2kvXrWnij.3hJW1vm.A92zbhja"
+    },
+    {
+        "username": "admin 4",
+        "email": "namuratehniksejahtera@gmail.com",
+        "password": "$2y$10$pOKvQ4KN\/WPvhjg.kXAtC.\/PI0YODnO6UJTdE3MkGhQSfjbnrB2\/2"
+    },
+    {
+        "admin_name": "amru",
+        "username": "admin 5",
+        "email": "Amrubahrululum15@gmail.com",
+        "password": "$2y$10$yaw9szk5U9TnmqqnYDeGC.NQip8k4ag6.UxTc.HkMgIKgjmC4AVfy",
+        "address": "Perum Villa Asri 1 Blok G No. 3  RT 003 \/ RW 017, Cicadas  Gunung Putri, Kabupaten Bogor",
+        "phone": "081288027217"
+    },
+    {
+        "admin_name": null,
+        "username": "amru 3",
+        "email": "Amrubahrululum15@gmail.com",
+        "password": "$2y$10$hmp300BcKo9XanwyBvHDiuC5yaryZUJU7tGIoIiGbFP5iDWvLhQDO",
+        "address": null,
+        "phone": null
+    },
+    {
+        "admin_name": "amru alzauzi",
+        "username": "admin 6",
+        "email": "namuratehniksejahtera@gmail.com",
+        "password": "$2y$10$7BVVihJApFmg3wMqQwYC3uuN2aQa0rthkU0xdPFVRKHZyh9Cnx4TG",
+        "address": "JLMERCEDES BENZ KP PABUARAN NO 49 RT002 RW 010 CICADAS GUNUNG PUTRI KAB BOGOR JAWA BARAT",
+        "phone": "62852"
+    },
+    {
+        "admin_name": "amru alzauzi alkatiri",
+        "username": "amru 2",
+        "email": "Amrubahrululum15@gmail.com",
+        "password": "$2y$10$LDN5YDT.3XPBQjjpMU2itO7Gn2F4DzWqpX3yjNecw1xcbK5JBxkS.",
+        "address": "Perum Villa Asri 1 Blok G No. 3  RT 003 \/ RW 017, Cicadas  Gunung Putri, Kabupaten Bogor",
+        "phone": "081288027217"
+    },
+    {
+        "admin_name": "laifa",
+        "username": "laifa2",
+        "email": "Amrubahrululum15@gmail.com",
+        "password": "$2y$10$C.x..axP1ULrWxSdWrPj\/eCZrSuuSgFRPH.Ne4xGzpUsLtjBxC1yS",
+        "address": "Perum Villa Asri 1 Blok G No. 3  RT 003 \/ RW 017, Cicadas  Gunung Putri, Kabupaten Bogor",
+        "phone": "081288027217"
+    },
+    {
+        "username": "amru15",
+        "password": "$2y$10$ZHhM3WlLz1XFotcspyFzqO4dCqmUHlPCccVvGutbP38UsbyKrnIx6"
+    },
+    {
+        "username": "amru bahrul ulum",
+        "password": "$2y$10$fX5KUB18eEnA8OYgQKUES.CKtT6pTsbajSlSB7x1iFX3Cj5fsorgS"
+    },
+    {
+        "username": "amru alzauzi",
+        "password": "$2y$10$Xqf0yXzKYi4c9xcljvSF6u0d8qTzYrNELKSZxpv4MP8kk0kxJix1C"
+    },
+    {
+        "username": "admin1",
+        "password": "$2y$10$Xewuyja9lI5EGukktx9MT.CLqO2Xq.qTbYxrJm8FJXheIKMv5mkey"
+    },
+    {
+        "namalengkap": "Amru ulum",
+        "username": "admin2",
+        "no_hp": "081288027217",
+        "email": "namuratehniksejahtera.@gmail.com",
+        "alamat": "jl,mercedes benz kp.pabuaran Rt.02 Rw.10",
+        "password": "$2y$10$z26QIFh42Z4DhIF2qs7kqugBWbh3IegF3xnbAL\/AMSoBKLIpiRZc2"
+    }
+]
